@@ -1,3 +1,12 @@
+<img width="1620" height="2880" alt="Image" src="https://github.com/user-attachments/assets/eefecf75-5131-474a-9f7e-363909a668f2" />
+
+<img width="1620" height="2880" alt="Image" src="https://github.com/user-attachments/assets/f530d386-902b-4a71-8708-333aa7f5fa5c" />
+
+<img width="1620" height="2880" alt="Image" src="https://github.com/user-attachments/assets/ac464a1e-7c24-4c1e-84cc-abd5c48c1a4b" />
+
+<img width="1620" height="2880" alt="Image" src="https://github.com/user-attachments/assets/4793e764-0c3c-4fff-847b-d255a05b7da6" />
+
+
 # 💎 Mahalaxmi Jewellers - Android App
 
 A comprehensive Android application for **Mahalaxmi Jewellers**, a premium jewelry showroom located in Pipar City, Jodhpur, Rajasthan. The app showcases an extensive collection of traditional and modern jewelry with seamless ordering capabilities.
