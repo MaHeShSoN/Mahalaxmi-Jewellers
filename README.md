@@ -1,3 +1,5 @@
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.mljca.MahalaxmiJewellers)
+
 # 💎 Mahalaxmi Jewellers - Android App
 
 A comprehensive Android application for **Mahalaxmi Jewellers**, a premium jewelry showroom located in Pipar City, Jodhpur, Rajasthan. The app showcases an extensive collection of traditional and modern jewelry with seamless ordering capabilities.
